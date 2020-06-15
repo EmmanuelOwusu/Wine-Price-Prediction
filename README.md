@@ -14,3 +14,6 @@ product features.
    * Label encoding
    * One Hot Encoding
    * TF-IDF
+   
+* Two models were used with cross validation. Their predictions were
+averaged and RMSE of 20.4 was achieved.
