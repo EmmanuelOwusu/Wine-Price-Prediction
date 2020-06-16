@@ -13,9 +13,9 @@ product features.
  
    * Label encoding
    * One Hot Encoding
-   * TF-IDF10
+   * TF-IDF
    
-* Fold cross validation applied in both models.
+* 10 Fold cross validation applied in both models.
 
 * Random Forest performs better than XGBoost.
 
