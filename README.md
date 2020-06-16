@@ -13,7 +13,15 @@ product features.
  
    * Label encoding
    * One Hot Encoding
-   * TF-IDF
+   * TF-IDF10
+   
+* Fold cross validation applied in both models.
+
+* Random Forest performs better than XGBoost.
+
+* Combining the models gives even better results.
+   
+ 
    
 * Two models were used with cross validation. Their predictions were
 averaged and RMSE of 20.4 was achieved.
