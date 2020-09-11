@@ -9,7 +9,7 @@ product features.
 * We use the Random Forest Regressor and the XGBoost Algorithm to
  predict the prices of wine.
  
- * Feature Engineering :
+ * Feature Engineering 
  
  We perform the following feature engineering :
  
