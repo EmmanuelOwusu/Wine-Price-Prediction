@@ -23,6 +23,6 @@ product features.
    
  
    
-* We used Two models were used with cross validation. 
+* We used Two models  after cross validation. 
 
 * Their predictions were averaged and RMSE of 20.4 was achieved.
