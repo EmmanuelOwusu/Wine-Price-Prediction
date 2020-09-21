@@ -15,7 +15,7 @@ product features.
    * One Hot Encoding
    * TF-IDF
    
-* 10 Fold cross validation applied in both models.
+* 10 Fold cross validation applied in  models.
 
 * Random Forest performs better than XGBoost.
 
